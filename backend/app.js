@@ -29,5 +29,4 @@ const patientController = require ("./controllers/patient.controller")
 app.use("/patient", patientController);
 
 
-
 module.exports= app;
